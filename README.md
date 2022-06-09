@@ -1,6 +1,6 @@
 # Potato_Disease_Predictor
-This is a Application to predict the potato disease from the image of the leaf.
-Dataset used:- https://www.kaggle.com/datasets/arjuntejaswi/plant-village
-Deep Learning Algrithm: Convolutional Neural Network(CNN)
-Saving Model: Tensorflow
-Backend: TF serving, FastAPI, Postman
+This is a Application to predict the potato disease from the image of the leaf.<br/>
+Dataset used:- https://www.kaggle.com/datasets/arjuntejaswi/plant-village<br/>
+Deep Learning Algrithm: Convolutional Neural Network(CNN)<br/>
+Saving Model: Tensorflow<br/>
+Backend: TF serving, FastAPI, Postman<br/>
